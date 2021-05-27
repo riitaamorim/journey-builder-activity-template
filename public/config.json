@@ -17,7 +17,7 @@
         "execute": {
            "inArguments":[],
           "outArguments": [],
-          "url": "https://customactivitytest.herokuapp.com/journeybuilder/execute",
+          "url": "https://apptesttemplateca.herokuapp.com/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -27,24 +27,24 @@
         }
     },
     "configurationArguments": {
-        "applicationEntensionKey": "a17c63a3-cf28-4962-9e2b-c33c6fec6b73",
+        "applicationEntensionKey": "70a39558-967f-4e45-a4e1-8df23e1c8d92",
         "save": {
-        "url": "https://customactivitytest.herokuapp.com/journeybuilder/save",
+        "url": "https://apptesttemplateca.herokuapp.com/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://customactivitytest.herokuapp.com/journeybuilder/publish",
+        "url": "https://apptesttemplateca.herokuapp.com/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://customactivitytest.herokuapp.com/journeybuilder/stop",
+        "url": "https://apptesttemplateca.herokuapp.com/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://customactivitytest.herokuapp.com/journeybuilder/validate",
+        "url": "https://apptesttemplateca.herokuapp.com/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
