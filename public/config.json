@@ -27,7 +27,7 @@
         }
     },
     "configurationArguments": {
-        "applicationEntensionKey": "70a39558-967f-4e45-a4e1-8df23e1c8d92",
+        "applicationEntensionKey": "9805953c-9e0a-453d-9f45-14b239f294ac",
         "save": {
         "url": "https://apptesttemplateca.herokuapp.com/journeybuilder/save",
           "verb": "POST",
